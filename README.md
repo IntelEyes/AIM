@@ -1,5 +1,8 @@
 # AIM : Adversarial Impact Matrix
 Risk-Based MITRE TTP Scoring for Proactive Cyber Threat Prioritization and Response
 
+![- visual selection(3)](https://github.com/user-attachments/assets/36ca1695-67f6-48ef-8ee9-ec4272facdb0)
+
+
 ## ABSTRACT
 MITRE ATT&CK is a globally accessible knowledge base of adversary tactics and techniques based on real-world observations. Tactics, Techniques, and Procedures (TTPs) are behaviors, methods, or patterns of activity used by threat actors or groups of threat actors. This paper introduces a novel scoring system using Adversarial Impact Metrics (AIM) to prioritize MITRE ATT&CK techniques and tactics to improve threat detection, prioritization, and cybersecurity defense in general. The approach incorporates several scoring parameters, including prevalence, exploitability, attack vector, and complexity, to provide a clear and orderly framework for analyzing and ranking cyber threats. This research addresses a major problem that is inherent in most threat intelligence platforms: the absence of a base scoring system, which makes it impossible to prioritize TTPs after an alert has been generated. The methodology is scalable and relevant to any organization, as it integrates a standardized and adaptable scoring system, enabling organizations to respond dynamically to risks based on their potential impact and the ease of exploitation. By facilitating a deeper understanding of resource allocation for cybersecurity teams, organizations enhance their capacity to respond to emerging threats, thereby strengthening their cybersecurity resilience amidst escalating risks.
