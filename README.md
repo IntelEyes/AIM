@@ -1,5 +1,5 @@
 # AIM : Adversarial Impact Matrix
-Risk-Based MITRE TTP Scoring for Proactive Cyber Threat Prioritization and Response
+Risk-Based MITRE ATT&CK TTP Scoring for Proactive Cyber Threat Prioritization and Response
 
 ![- visual selection(3)](https://github.com/user-attachments/assets/36ca1695-67f6-48ef-8ee9-ec4272facdb0)
 
